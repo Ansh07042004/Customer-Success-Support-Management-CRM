@@ -1,8 +1,6 @@
 # Customer-Success-Support-Management-CRM
 A Salesforce solution to automate onboarding, support cases, and usage tracking for SaaS companies using Apex, LWC, and automation tools.
 
-# Customer Success & Support Management CRM
-
 ## ✅ Problem Statement
 
 Technology and SaaS companies often struggle to efficiently manage the entire customer lifecycle — from onboarding to support and renewals.  
